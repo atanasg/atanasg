@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atanasg
 - 👀 I’m interested in Java and all of Computer Science
-- 🌱 I’m currently (04/2022) learning a bit of Angular and Kotlin
+- 🌱 I’m currently (04/2023) learning a bit of Angular and Kotlin
 - 💞️ I’m looking to collaborate on potentially everything
 - 📫 How to reach me: open PR to this repo ;)
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atanasg
 - 👀 I’m interested in Java and all of Computer Science
-- 🌱 I’m currently (09/2024) learning a bit of AWS Cloud and AI
+- 🌱 I’m currently (05/2025) learning a bit of AWS Cloud and AI
 - 💞️ I’m looking to collaborate on potentially everything
 - 📫 How to reach me: open PR to this repo ;)
 
